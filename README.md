@@ -4,7 +4,7 @@
 
 **效果图**
 
-<img src="./static/shuoye.png" alt="体验地址" width="375" height="667">
+<img src="./static/shouye.png" alt="体验地址" width="375" height="667">
 
 
 ### 安装
