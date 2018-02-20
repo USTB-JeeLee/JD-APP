@@ -1,4 +1,4 @@
-<template>
+<template lang="html">
     <div :class="[btnClass,cname]">
         <slot/>
     </div>
@@ -9,23 +9,20 @@ export default {
     props: {
         cname: {
             type: String,
-            default: ""
-        }
+            default: "",
+        },
     },
     data() {
         return {
-            btnClass: 'btn'
+            btnClass: "btn",
         }
-    }
+    },
 }
 </script>
 
 <style lang="scss">
 @import "../../css/element.scss";
-
-.btn {
-    @include btn;
+.btn{
+  @include btn;
 }
 </style>
-
-
