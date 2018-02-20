@@ -2,11 +2,17 @@
 
 本项目使用的是Vue(2.5.9)实现的组件化项目
 
-**效果图**
-
+**首页效果图**
 <img src="./static/shouye.png" alt="体验地址" width="375" height="667">
+
+
+**白条效果图**
 <img src="./static/baitiao.png" alt="体验地址" width="375" height="667">
-<img src="./static/zhongchong.png" alt="体验地址" width="375" height="667">
+
+
+
+**众筹效果图**
+<img src="./static/zhongchou.png" alt="体验地址" width="375" height="667">
 
 
 ### 安装
