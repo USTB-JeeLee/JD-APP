@@ -5,6 +5,8 @@
 **效果图**
 
 <img src="./static/shouye.png" alt="体验地址" width="375" height="667">
+<img src="./static/baitiao.png" alt="体验地址" width="375" height="667">
+<img src="./static/zhongchong.png" alt="体验地址" width="375" height="667">
 
 
 ### 安装
